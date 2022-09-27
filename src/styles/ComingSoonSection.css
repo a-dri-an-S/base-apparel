@@ -1,0 +1,21 @@
+@media only screen and (max-width: 375px) {
+    .coming-soon-sect {
+        padding: 60px 40px 40px 40px;
+        text-align: center;
+    }
+    .coming-soon-title {
+        margin: 0;
+        letter-spacing: 10px;
+        font-size: 40px;
+        color: var(--dark-grayish-red);
+    }
+    .coming-soon-title-accent {
+        font-weight: 300;
+        color: var(--desaturated-red);
+    }
+    .coming-soon-text {
+        font-size: 14px;
+        line-height: 22px;
+        color: var(--desaturated-red);
+    }
+}
