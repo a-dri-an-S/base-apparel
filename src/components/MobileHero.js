@@ -1,4 +1,5 @@
 import MobileHero from "../assets/hero-mobile.jpg";
+import "../styles/MobileHero.css";
 
 const ImageHeroMobile = () => {
     return (

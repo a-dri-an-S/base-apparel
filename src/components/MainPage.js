@@ -1,7 +1,7 @@
 import ComingSoonSection from "./ComingSoonSection";
 import EmailInput from "./EmailInput";
 import Header from "./Header";
-import HeroImageMobile from "./HeroImageMobile";
+import MobileHero from "./MobileHero";
 
 const MainPage = () => {
 
@@ -10,7 +10,7 @@ const MainPage = () => {
     return (
         <main className="main">
             <Header />
-            <HeroImageMobile />
+            <MobileHero />
             <ComingSoonSection />
             <EmailInput />
         </main>
